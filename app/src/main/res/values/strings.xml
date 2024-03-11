@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Сurrency</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="africaZAR">ZAR</string>
+    <string name="russiaRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="chinaYUA">YUA</string>
+    <string name="germanyEUR">EUR</string>
+    <string name="switzerlandFRA">FRA</string>
+
+    <string name="africa">South Africa\nrand</string>
+    <string name="russian">Russia\nrouble</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+    <string name="china">China\nyuan</string>
+    <string name="germany">Germany\nEuro</string>
+    <string name="switzerland">Switzerland\nfranc</string>
+
+    <string name="capitalrussia">Moscow</string>
+    <string name="capitalafrika">CapeTown</string>
+    <string name="capitalsingapore">Singapore</string>
+    <string name="capitalturkish">Ankara</string>
+    <string name="capitalchina">Beijing</string>
+    <string name="capitalgerman">Berlin</string>
+    <string name="capitalswitzerland">Berne</string>
+
+
+
+
+
+
+    <string name="flag">flag</string>
+
+
+</resources>
